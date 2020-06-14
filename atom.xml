@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-14T08:57:11.169Z</updated>
+  <updated>2020-06-14T09:37:16.809Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,137 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>manjaro go的安装</title>
+    <link href="http://yoursite.com/2020/06/14/manjaro-go%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2020/06/14/manjaro-go%E7%9A%84%E5%AE%89%E8%A3%85/</id>
+    <published>2020-06-14T09:33:07.000Z</published>
+    <updated>2020-06-14T09:37:16.809Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="manjaro-go"><a href="#manjaro-go" class="headerlink" title="manjaro go???"></a>manjaro go???</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="go" scheme="http://yoursite.com/tags/go/"/>
+    
+      <category term="manjaro" scheme="http://yoursite.com/tags/manjaro/"/>
+    
+      <category term="tip" scheme="http://yoursite.com/tags/tip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>go 拓展包离线安装 [简单有用]</title>
+    <link href="http://yoursite.com/2020/06/14/go-%E6%8B%93%E5%B1%95%E5%8C%85%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85-%E7%AE%80%E5%8D%95%E6%9C%89%E7%94%A8/"/>
+    <id>http://yoursite.com/2020/06/14/go-%E6%8B%93%E5%B1%95%E5%8C%85%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85-%E7%AE%80%E5%8D%95%E6%9C%89%E7%94%A8/</id>
+    <published>2020-06-14T09:30:53.000Z</published>
+    <updated>2020-06-14T09:31:29.001Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><ol><li><h2 id="获取golang-org-x-tools包"><a href="#获取golang-org-x-tools包" class="headerlink" title="获取golang.org/x/tools包"></a>获取golang.org/x/tools包</h2></li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;golang&#x2F;tools $GOPATH&#x2F;src&#x2F;golang.org&#x2F;x&#x2F;tools</span><br></pre></td></tr></table></figure><ol start="2"><li><h2 id="git-clone-拓展包"><a href="#git-clone-拓展包" class="headerlink" title="git clone 拓展包"></a>git clone 拓展包</h2></li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> <span class="variable">$GOPATH</span>/src/</span><br><span class="line"></span><br><span class="line"><span class="comment"># git clone 要下载的包 ，下面举几个例子</span></span><br><span class="line"></span><br><span class="line">git <span class="built_in">clone</span> https://github.com/bytbox/golint.git</span><br><span class="line">go install golint/</span><br><span class="line"></span><br><span class="line"><span class="comment"># 完成</span></span><br></pre></td></tr></table></figure><p>补充</p><table><thead><tr><th>安装的组件</th><th>默认安装状态</th><th>组件备注</th><th>github.com-&gt;golang.org</th></tr></thead><tbody><tr><td>go get -u -v github.com/nsf/gocode</td><td>SUCCEEDED</td><td>自动补全</td><td></td></tr><tr><td>go get -u -v github.com/uudashr/gopkgs/cmd/gopkgs</td><td>SUCCEEDED</td><td>自动补全未导入的包</td><td></td></tr><tr><td>go get -u -v github.com/ramya-rao-a/go-outline</td><td>SUCCEEDED</td><td>当前文件中按符号搜索</td><td><a href="https://github.com/golang/tools" target="_blank" rel="noopener">https://github.com/golang/tools</a></td></tr><tr><td>go get -u -v github.com/acroca/go-symbols</td><td>SUCCEEDED</td><td>当前workspace中按符号搜索</td><td></td></tr><tr><td>go get -u -v golang.org/x/tools/cmd/guru</td><td>SUCCEEDED</td><td>查找所有引用组件</td><td></td></tr><tr><td>go get -u -v golang.org/x/tools/cmd/gorename</td><td>SUCCEEDED</td><td>重命名符号</td><td></td></tr><tr><td>go get -u -v github.com/fatih/gomodifytags</td><td>SUCCEEDED</td><td>修改结构上的标签</td><td></td></tr><tr><td>go get -u -v github.com/haya14busa/goplay/cmd/goplay</td><td>SUCCEEDED</td><td>for running current file in the Go playground</td><td></td></tr><tr><td>go get -u -v github.com/josharian/impl</td><td>SUCCEEDED</td><td>for generating stubs for interfaces</td><td></td></tr><tr><td>go get -u -v github.com/davidrjenni/reftools/cmd/fillstruct</td><td>SUCCEEDED</td><td>for filling a struct literal with default values</td><td></td></tr><tr><td>go get -u -v github.com/rogpeppe/godef</td><td>SUCCEEDED</td><td>转到定义2</td><td></td></tr><tr><td>go get -u -v golang.org/x/tools/cmd/godoc</td><td>SUCCEEDED</td><td>鼠标悬停显示文档注释2</td><td></td></tr><tr><td>go get -u -v sourcegraph.com/sqs/goreturns</td><td>SUCCEEDED</td><td>格式化代码2</td><td></td></tr><tr><td>go get -u -v github.com/golang/lint/golint</td><td>SUCCEEDED</td><td>for linting</td><td><a href="https://github.com/golang/lint" target="_blank" rel="noopener">https://github.com/golang/lint</a></td></tr><tr><td>go get -u -v github.com/cweill/gotests/…</td><td>SUCCEEDED</td><td>生成单元测试</td><td></td></tr><tr><td>go get -u -v github.com/derekparker/delve/cmd/dlv</td><td>SUCCEEDED</td><td>调试</td><td></td></tr><tr><td>go get -u -v github.com/zmb3/gogetdoc</td><td></td><td>转到定义2/鼠标悬停显示注释2</td><td></td></tr><tr><td>go get -u -v golang.org/x/tools/cmd/goimports</td><td></td><td>格式化代码2</td><td></td></tr></tbody></table><p><a href="https://www.cnblogs.com/justdoyou/p/9853520.html" target="_blank" rel="noopener">参考链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="go" scheme="http://yoursite.com/tags/go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>go 自动补全</title>
+    <link href="http://yoursite.com/2020/06/14/go-%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8/"/>
+    <id>http://yoursite.com/2020/06/14/go-%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8/</id>
+    <published>2020-06-14T09:29:47.000Z</published>
+    <updated>2020-06-14T09:30:10.039Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>设置–&gt;[go]–&gt;setting.json</p><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    <span class="attr">"files.autoSave"</span>: <span class="string">"afterDelay"</span>,</span><br><span class="line">    <span class="attr">"workbench.colorTheme"</span>: <span class="string">"One Dark Pro Vivid"</span>,</span><br><span class="line">    <span class="attr">"window.menuBarVisibility"</span>: <span class="string">"toggle"</span>,</span><br><span class="line">    <span class="attr">"explorer.confirmDelete"</span>: <span class="literal">false</span>,</span><br><span class="line">    <span class="attr">"explorer.confirmDragAndDrop"</span>: <span class="literal">false</span>,</span><br><span class="line">    <span class="attr">"go.formatTool"</span>: <span class="string">"goimports"</span>,</span><br><span class="line">    <span class="attr">"go.useLanguageServer"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"workbench.iconTheme"</span>: <span class="string">"vscode-great-icons"</span>,</span><br><span class="line">    <span class="attr">"go.inferGopath"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"go.gopath"</span>: <span class="string">"/home/blime/go-work/"</span>,</span><br><span class="line">    <span class="attr">"go.useCodeSnippetsOnFunctionSuggest"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"go.autocompleteUnimportedPackages"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"go.useCodeSnippetsOnFunctionSuggestWithoutType"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"go.gotoSymbol.includeImports"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"go.gotoSymbol.includeGoroot"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"go.gocodePackageLookupMode"</span>: <span class="string">"go"</span>,</span><br><span class="line">    <span class="attr">"window.zoomLevel"</span>: <span class="number">0</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="go" scheme="http://yoursite.com/tags/go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title> The script scrapy is installed in ‘/home/xxx/.local/bin’ which is not on PATH. Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. </title>
+    <link href="http://yoursite.com/2020/06/14/The-script-scrapy-is-installed-in-%E2%80%98-home-xxx-local-bin%E2%80%99-which-is-not-on-PATH-Consider-adding-this-directory-to-PATH-or-if-you-prefer-to-suppress-this-warning-use-no-warn-script-location/"/>
+    <id>http://yoursite.com/2020/06/14/The-script-scrapy-is-installed-in-%E2%80%98-home-xxx-local-bin%E2%80%99-which-is-not-on-PATH-Consider-adding-this-directory-to-PATH-or-if-you-prefer-to-suppress-this-warning-use-no-warn-script-location/</id>
+    <published>2020-06-14T09:27:14.000Z</published>
+    <updated>2020-06-14T09:28:30.137Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h4 id="The-script-scrapy-is-installed-in-‘-home-xxx-local-bin’-which-is-not-on-PATH-Consider-adding-this-directory-to-PATH-or-if-you-prefer-to-suppress-this-warning-use-–no-warn-script-location"><a href="#The-script-scrapy-is-installed-in-‘-home-xxx-local-bin’-which-is-not-on-PATH-Consider-adding-this-directory-to-PATH-or-if-you-prefer-to-suppress-this-warning-use-–no-warn-script-location" class="headerlink" title="The script scrapy is installed in ‘/home/xxx/.local/bin’ which is not on PATH. Consider adding this directory to PATH or, if you prefer to suppress this warning, use –no-warn-script-location."></a>The script scrapy is installed in ‘/home/xxx/.local/bin’ which is not on PATH. Consider adding this directory to PATH or, if you prefer to suppress this warning, use –no-warn-script-location.</h4><p>?????</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">export PATH&#x3D;&#x2F;home&#x2F;blime&#x2F;.local&#x2F;bin&#x2F;:$PATH</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">?????????????????????????????????????~&#x2F;.zshrc??~&#x2F;.bashrc?</span><br><span class="line">???????????</span><br><span class="line">bash???~&#x2F;.bashrc</span><br><span class="line">zsh????&#x2F;.zshrc</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">sudo vim ~&#x2F;.zshrc </span><br><span class="line">#?export PATH&#x3D;&#x2F;home&#x2F;blime&#x2F;.local&#x2F;bin&#x2F;:$PATH  ????</span><br><span class="line">source ~&#x2F;.zshrc  </span><br><span class="line">#???</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="error" scheme="http://yoursite.com/tags/error/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>error: ‘wait’ was not declared in this scope</title>
+    <link href="http://yoursite.com/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/"/>
+    <id>http://yoursite.com/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/</id>
+    <published>2020-06-14T09:24:48.000Z</published>
+    <updated>2020-06-14T09:25:25.013Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;sys/types.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;sys/wait.h&gt;</span></span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+      <category term="error" scheme="http://yoursite.com/tags/error/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/06/13/hello-world/"/>
     <id>http://yoursite.com/2020/06/13/hello-world/</id>
     <published>2020-06-13T14:44:02.985Z</published>
     <updated>2020-06-14T08:57:11.169Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><html><head></head><style type="text/css">#posts-chart,#categories-chart,#tags-chart{width: 100%;height: 300px;margin: 0.5rem auto;padding: 0.5rem;}</style><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4.7.0/dist/echarts.min.js"></script><body><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><div id="posts-chart"></div>  <script id="postsChart">    let postsChart = echarts.init(document.getElementById('posts-chart'));    let postsOption = {        title: {            text: '文章发布统计图',            top: -5,            x: 'center'        },        tooltip: {            trigger: 'axis'        },        xAxis: {            type: 'category',            data: ["2019-06","2019-07","2019-08","2019-09","2019-10","2019-11","2019-12","2020-01","2020-02","2020-03","2020-04","2020-05","2020-06"]        },        yAxis: {            type: 'value',        },        series: [            {                name: '文章篇数',                type: 'line',                color: ['#6772e5'],                data: [0,0,0,0,0,0,0,0,0,0,0,0,1],                markPoint: {                    symbolSize: 45,                    color: ['#fa755a','#3ecf8e','#82d3f4'],                    data: [{                        type: 'max',                        itemStyle: {color: ['#3ecf8e']},                        name: '最大值'                    }, {                        type: 'min',                        itemStyle: {color: ['#fa755a']},                        name: '最小值'                    }]                },                markLine: {                    itemStyle: {color: ['#ab47bc']},                    data: [                        {type: 'average', name: '平均值'}                    ]                }            }        ]    };    postsChart.setOption(postsOption);    </script><!-- "data-length"为显示标签个数(从多到少)，默认为10 --><!-- <div id="tags-chart" data-length="10"></div><div id="categories-chart"></div> --></body></html>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><html><head></head><style type="text/css">#posts-chart,#categories-chart,#tags-chart{width: 100%;height: 300px;margin: 0.5rem auto;padding: 0.5rem;}</style><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4.7.0/dist/echarts.min.js"></script><body><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><div id="posts-chart"></div>  <script id="postsChart">    let postsChart = echarts.init(document.getElementById('posts-chart'));    let postsOption = {        title: {            text: '文章发布统计图',            top: -5,            x: 'center'        },        tooltip: {            trigger: 'axis'        },        xAxis: {            type: 'category',            data: ["2019-06","2019-07","2019-08","2019-09","2019-10","2019-11","2019-12","2020-01","2020-02","2020-03","2020-04","2020-05","2020-06"]        },        yAxis: {            type: 'value',        },        series: [            {                name: '文章篇数',                type: 'line',                color: ['#6772e5'],                data: [0,0,0,0,0,0,0,0,0,0,0,0,2],                markPoint: {                    symbolSize: 45,                    color: ['#fa755a','#3ecf8e','#82d3f4'],                    data: [{                        type: 'max',                        itemStyle: {color: ['#3ecf8e']},                        name: '最大值'                    }, {                        type: 'min',                        itemStyle: {color: ['#fa755a']},                        name: '最小值'                    }]                },                markLine: {                    itemStyle: {color: ['#ab47bc']},                    data: [                        {type: 'average', name: '平均值'}                    ]                }            }        ]    };    postsChart.setOption(postsOption);    </script><!-- "data-length"为显示标签个数(从多到少)，默认为10 --><!-- <div id="tags-chart" data-length="10"></div><div id="categories-chart"></div> --></body></html>]]></content>
     
     <summary type="html">
     
