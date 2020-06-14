@@ -241,32 +241,6 @@
   </entry>
   
   <entry>
-    <title> The script scrapy is installed in ‘/home/xxx/.local/bin’ which is not on PATH. Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. </title>
-    <link href="http://yoursite.com/2020/06/14/The-script-scrapy-is-installed-in-%E2%80%98-home-xxx-local-bin%E2%80%99-which-is-not-on-PATH-Consider-adding-this-directory-to-PATH-or-if-you-prefer-to-suppress-this-warning-use-no-warn-script-location/"/>
-    <id>http://yoursite.com/2020/06/14/The-script-scrapy-is-installed-in-%E2%80%98-home-xxx-local-bin%E2%80%99-which-is-not-on-PATH-Consider-adding-this-directory-to-PATH-or-if-you-prefer-to-suppress-this-warning-use-no-warn-script-location/</id>
-    <published>2020-06-14T09:27:14.000Z</published>
-    <updated>2020-06-14T15:12:51.018Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>?????</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">export PATH&#x3D;&#x2F;home&#x2F;blime&#x2F;.local&#x2F;bin&#x2F;:$PATH</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">?????????????????????????????????????~&#x2F;.zshrc??~&#x2F;.bashrc?</span><br><span class="line">???????????</span><br><span class="line">bash???~&#x2F;.bashrc</span><br><span class="line">zsh????&#x2F;.zshrc</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo vim ~&#x2F;.zshrc </span><br><span class="line">#?export PATH&#x3D;&#x2F;home&#x2F;blime&#x2F;.local&#x2F;bin&#x2F;:$PATH  ????</span><br><span class="line">source ~&#x2F;.zshrc  </span><br><span class="line">#???</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="bug" scheme="http://yoursite.com/categories/bug/"/>
-    
-    
-      <category term="error" scheme="http://yoursite.com/tags/error/"/>
-    
-  </entry>
-  
-  <entry>
     <title>error: ‘wait’ was not declared in this scope</title>
     <link href="http://yoursite.com/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/"/>
     <id>http://yoursite.com/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/</id>
