@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-14T14:19:14.471Z</updated>
+  <updated>2020-06-14T14:32:05.189Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/06/14/%E5%B7%B2%E8%A7%A3%E5%86%B3-%E8%B6%85%E7%AE%80%E5%8D%95-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84-Issues-%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%AF%B7%E8%81%94%E7%B3%BBxxx%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%9B%E5%BB%BA/"/>
     <id>http://yoursite.com/2020/06/14/%E5%B7%B2%E8%A7%A3%E5%86%B3-%E8%B6%85%E7%AE%80%E5%8D%95-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84-Issues-%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%AF%B7%E8%81%94%E7%B3%BBxxx%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%9B%E5%BB%BA/</id>
     <published>2020-06-14T14:10:06.000Z</published>
-    <updated>2020-06-14T14:19:14.471Z</updated>
+    <updated>2020-06-14T14:32:05.189Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>真的超级简单,<br>只要登录一下,<br>然后会有一个授权,<br>授权就好了。</p><p>网上看到一些<a href="https://blog.csdn.net/qq_38593205/article/details/104169248" target="_blank" rel="noopener">其他的帖子</a>说要注意 https 什么的，<br>我是解决不了的。<br>我就直接登录了一下 然后授权就成功了。</p><p>可是在本地的版本 还是不可以<br>不管了 反正可以在线上用 就这样吧</p>]]></content>
     
@@ -35,8 +35,14 @@
     </summary>
     
     
+      <category term="chaos" scheme="http://yoursite.com/categories/chaos/"/>
+    
     
       <category term="error" scheme="http://yoursite.com/tags/error/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="gitalk" scheme="http://yoursite.com/tags/gitalk/"/>
     
   </entry>
   
