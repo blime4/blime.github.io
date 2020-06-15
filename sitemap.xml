@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/06/15/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/</loc>
+    
+    <lastmod>2020-06-15T17:50:17.022Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/music/index.html</loc>
+    
+    <lastmod>2020-06-15T17:00:58.996Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/06/15/hexo-butterfly-github%E5%81%9A%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2020-06-15T16:11:58.379Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://yoursite.com/2020/06/14/manjaro%20%E5%AE%89%E8%A3%85mysql/</loc>
     
     <lastmod>2020-06-15T16:05:26.726Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/06/15/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/</loc>
-    
-    <lastmod>2020-06-15T02:45:34.094Z</lastmod>
     
   </url>
   
@@ -96,13 +103,6 @@
     <loc>http://yoursite.com/2020/06/14/oh-my-zsh%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E6%8F%92%E4%BB%B6incr/</loc>
     
     <lastmod>2020-06-14T12:08:51.723Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/music/index.html</loc>
-    
-    <lastmod>2020-06-14T09:15:13.230Z</lastmod>
     
   </url>
   
