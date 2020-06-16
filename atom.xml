@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://blime4.github.io/"/>
   <updated>2020-06-15T16:11:58.379Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://blime4.github.io/</id>
   
   <author>
     <name>blime4</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title># hexo+butterfly+github做一个免费好看的博客</title>
-    <link href="http://yoursite.com/2020/06/15/hexo-butterfly-github%E5%81%9A%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2020/06/15/hexo-butterfly-github%E5%81%9A%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://blime4.github.io/2020/06/15/hexo-butterfly-github%E5%81%9A%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blime4.github.io/2020/06/15/hexo-butterfly-github%E5%81%9A%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-06-15T15:48:44.000Z</published>
     <updated>2020-06-15T16:11:58.379Z</updated>
     
@@ -35,21 +35,21 @@
     </summary>
     
     
-      <category term="Tutorial" scheme="http://yoursite.com/categories/Tutorial/"/>
+      <category term="Tutorial" scheme="https://blime4.github.io/categories/Tutorial/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://blime4.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+      <category term="github" scheme="https://blime4.github.io/tags/github/"/>
     
-      <category term="butterfly" scheme="http://yoursite.com/tags/butterfly/"/>
+      <category term="butterfly" scheme="https://blime4.github.io/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>002 关联图-散点图</title>
-    <link href="http://yoursite.com/2020/06/15/002-%E5%85%B3%E8%81%94%E5%9B%BE-%E6%95%A3%E7%82%B9%E5%9B%BE/"/>
-    <id>http://yoursite.com/2020/06/15/002-%E5%85%B3%E8%81%94%E5%9B%BE-%E6%95%A3%E7%82%B9%E5%9B%BE/</id>
+    <link href="https://blime4.github.io/2020/06/15/002-%E5%85%B3%E8%81%94%E5%9B%BE-%E6%95%A3%E7%82%B9%E5%9B%BE/"/>
+    <id>https://blime4.github.io/2020/06/15/002-%E5%85%B3%E8%81%94%E5%9B%BE-%E6%95%A3%E7%82%B9%E5%9B%BE/</id>
     <published>2020-06-15T02:07:13.000Z</published>
     <updated>2020-06-15T02:20:04.786Z</updated>
     
@@ -65,21 +65,21 @@
     </summary>
     
     
-      <category term="data analysis" scheme="http://yoursite.com/categories/data-analysis/"/>
+      <category term="data analysis" scheme="https://blime4.github.io/categories/data-analysis/"/>
     
     
-      <category term="data" scheme="http://yoursite.com/tags/data/"/>
+      <category term="data" scheme="https://blime4.github.io/tags/data/"/>
     
-      <category term="visual" scheme="http://yoursite.com/tags/visual/"/>
+      <category term="visual" scheme="https://blime4.github.io/tags/visual/"/>
     
-      <category term="analysis" scheme="http://yoursite.com/tags/analysis/"/>
+      <category term="analysis" scheme="https://blime4.github.io/tags/analysis/"/>
     
   </entry>
   
   <entry>
     <title>001 安装一些必要的东西</title>
-    <link href="http://yoursite.com/2020/06/15/001-%E5%AE%89%E8%A3%85%E4%B8%80%E4%BA%9B%E5%BF%85%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF/"/>
-    <id>http://yoursite.com/2020/06/15/001-%E5%AE%89%E8%A3%85%E4%B8%80%E4%BA%9B%E5%BF%85%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF/</id>
+    <link href="https://blime4.github.io/2020/06/15/001-%E5%AE%89%E8%A3%85%E4%B8%80%E4%BA%9B%E5%BF%85%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF/"/>
+    <id>https://blime4.github.io/2020/06/15/001-%E5%AE%89%E8%A3%85%E4%B8%80%E4%BA%9B%E5%BF%85%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF/</id>
     <published>2020-06-15T02:06:56.000Z</published>
     <updated>2020-06-15T02:19:58.758Z</updated>
     
@@ -95,21 +95,21 @@
     </summary>
     
     
-      <category term="data analysis" scheme="http://yoursite.com/categories/data-analysis/"/>
+      <category term="data analysis" scheme="https://blime4.github.io/categories/data-analysis/"/>
     
     
-      <category term="data" scheme="http://yoursite.com/tags/data/"/>
+      <category term="data" scheme="https://blime4.github.io/tags/data/"/>
     
-      <category term="visual" scheme="http://yoursite.com/tags/visual/"/>
+      <category term="visual" scheme="https://blime4.github.io/tags/visual/"/>
     
-      <category term="analysis" scheme="http://yoursite.com/tags/analysis/"/>
+      <category term="analysis" scheme="https://blime4.github.io/tags/analysis/"/>
     
   </entry>
   
   <entry>
     <title>数据可视化简洁教程[持续更新中]</title>
-    <link href="http://yoursite.com/2020/06/15/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AE%80%E6%B4%81%E6%95%99%E7%A8%8B-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/"/>
-    <id>http://yoursite.com/2020/06/15/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AE%80%E6%B4%81%E6%95%99%E7%A8%8B-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/</id>
+    <link href="https://blime4.github.io/2020/06/15/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AE%80%E6%B4%81%E6%95%99%E7%A8%8B-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/"/>
+    <id>https://blime4.github.io/2020/06/15/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AE%80%E6%B4%81%E6%95%99%E7%A8%8B-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/</id>
     <published>2020-06-15T01:49:43.000Z</published>
     <updated>2020-06-15T02:14:06.794Z</updated>
     
@@ -125,25 +125,25 @@
     </summary>
     
     
-      <category term="data analysis" scheme="http://yoursite.com/categories/data-analysis/"/>
+      <category term="data analysis" scheme="https://blime4.github.io/categories/data-analysis/"/>
     
     
-      <category term="data" scheme="http://yoursite.com/tags/data/"/>
+      <category term="data" scheme="https://blime4.github.io/tags/data/"/>
     
-      <category term="visual" scheme="http://yoursite.com/tags/visual/"/>
+      <category term="visual" scheme="https://blime4.github.io/tags/visual/"/>
     
-      <category term="analysis" scheme="http://yoursite.com/tags/analysis/"/>
+      <category term="analysis" scheme="https://blime4.github.io/tags/analysis/"/>
     
   </entry>
   
   <entry>
     <title>我的大学生活</title>
-    <link href="http://yoursite.com/2020/06/15/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/"/>
-    <id>http://yoursite.com/2020/06/15/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/</id>
+    <link href="https://blime4.github.io/2020/06/15/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/"/>
+    <id>https://blime4.github.io/2020/06/15/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/</id>
     <published>2020-06-14T16:01:10.000Z</published>
     <updated>2020-06-16T16:05:20.136Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>music</p></blockquote>    <div id="aplayer-cjDyxQlc" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="60px" data-preload="none" data-theme="#ad7a86"    ></div><div class="demo"></div><script>    function tt(){        $('.demo').slider({    imgList: [        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/2a877ea5da1292c817cbc2a254c01c31.png',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/5005109d1aa2ffd28984c2b02b8cbfbe.png',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/163a2ade4361d1ed705ed523091af67e.png',            a: '跳转url地址',        }    ], //图片的列表，a属性里面存放的是网络地址，img存放的是图片地址    width: "100%", //图片的宽    height: 300, //图片的高    isAuto: true, //是否自动轮播    moveTime: 1000, //运动时间    direction: 'right', //轮播的方向    btnWidth: 30, //按钮的宽    btnHeight: 30, //按钮的高    spanWidth: 10, //span按钮的宽    spanHeight: 10, //span按钮的高    spanColor: '#fff', //span按钮的颜色    activeSpanColor: 'red', //选中的span颜色    btnBackgroundColor: 'rgba(0, 0, 0, 0.3)', //两侧按钮的颜色    spanRadius: '50%', //span按钮的圆角程度    spanMargin: 3, //span之间的距离})    }    window.addEventListener('DOMContentLoaded',tt)</script><blockquote><p>movie</p></blockquote><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=796021599&bvid=BV1hC4y1a7gS&cid=202640749&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>music</p></blockquote>    <div id="aplayer-pKUOAxfA" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="60px" data-preload="none" data-theme="#ad7a86"    ></div><div class="demo"></div><script>    function tt(){        $('.demo').slider({    imgList: [        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/2a877ea5da1292c817cbc2a254c01c31.png',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/5005109d1aa2ffd28984c2b02b8cbfbe.png',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/163a2ade4361d1ed705ed523091af67e.png',            a: '跳转url地址',        }    ], //图片的列表，a属性里面存放的是网络地址，img存放的是图片地址    width: "100%", //图片的宽    height: 300, //图片的高    isAuto: true, //是否自动轮播    moveTime: 1000, //运动时间    direction: 'right', //轮播的方向    btnWidth: 30, //按钮的宽    btnHeight: 30, //按钮的高    spanWidth: 10, //span按钮的宽    spanHeight: 10, //span按钮的高    spanColor: '#fff', //span按钮的颜色    activeSpanColor: 'red', //选中的span颜色    btnBackgroundColor: 'rgba(0, 0, 0, 0.3)', //两侧按钮的颜色    spanRadius: '50%', //span按钮的圆角程度    spanMargin: 3, //span之间的距离})    }    window.addEventListener('DOMContentLoaded',tt)</script><blockquote><p>movie</p></blockquote><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=796021599&bvid=BV1hC4y1a7gS&cid=202640749&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
     
     <summary type="html">
     
@@ -155,17 +155,17 @@
     </summary>
     
     
-      <category term="chaos" scheme="http://yoursite.com/categories/chaos/"/>
+      <category term="chaos" scheme="https://blime4.github.io/categories/chaos/"/>
     
     
-      <category term="life" scheme="http://yoursite.com/tags/life/"/>
+      <category term="life" scheme="https://blime4.github.io/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>[半解决 超简单] 未找到相关的 Issues 进行评论，请联系xxx初始化创建</title>
-    <link href="http://yoursite.com/2020/06/14/%E5%B7%B2%E8%A7%A3%E5%86%B3-%E8%B6%85%E7%AE%80%E5%8D%95-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84-Issues-%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%AF%B7%E8%81%94%E7%B3%BBxxx%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%9B%E5%BB%BA/"/>
-    <id>http://yoursite.com/2020/06/14/%E5%B7%B2%E8%A7%A3%E5%86%B3-%E8%B6%85%E7%AE%80%E5%8D%95-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84-Issues-%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%AF%B7%E8%81%94%E7%B3%BBxxx%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%9B%E5%BB%BA/</id>
+    <link href="https://blime4.github.io/2020/06/14/%E5%B7%B2%E8%A7%A3%E5%86%B3-%E8%B6%85%E7%AE%80%E5%8D%95-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84-Issues-%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%AF%B7%E8%81%94%E7%B3%BBxxx%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%9B%E5%BB%BA/"/>
+    <id>https://blime4.github.io/2020/06/14/%E5%B7%B2%E8%A7%A3%E5%86%B3-%E8%B6%85%E7%AE%80%E5%8D%95-%E6%9C%AA%E6%89%BE%E5%88%B0%E7%9B%B8%E5%85%B3%E7%9A%84-Issues-%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%AF%B7%E8%81%94%E7%B3%BBxxx%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%9B%E5%BB%BA/</id>
     <published>2020-06-14T14:10:06.000Z</published>
     <updated>2020-06-14T14:59:23.599Z</updated>
     
@@ -181,21 +181,21 @@
     </summary>
     
     
-      <category term="chaos" scheme="http://yoursite.com/categories/chaos/"/>
+      <category term="chaos" scheme="https://blime4.github.io/categories/chaos/"/>
     
     
-      <category term="error" scheme="http://yoursite.com/tags/error/"/>
+      <category term="error" scheme="https://blime4.github.io/tags/error/"/>
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://blime4.github.io/tags/hexo/"/>
     
-      <category term="gitalk" scheme="http://yoursite.com/tags/gitalk/"/>
+      <category term="gitalk" scheme="https://blime4.github.io/tags/gitalk/"/>
     
   </entry>
   
   <entry>
     <title>oh-my-zsh自动补全插件incr</title>
-    <link href="http://yoursite.com/2020/06/14/oh-my-zsh%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E6%8F%92%E4%BB%B6incr/"/>
-    <id>http://yoursite.com/2020/06/14/oh-my-zsh%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E6%8F%92%E4%BB%B6incr/</id>
+    <link href="https://blime4.github.io/2020/06/14/oh-my-zsh%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E6%8F%92%E4%BB%B6incr/"/>
+    <id>https://blime4.github.io/2020/06/14/oh-my-zsh%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E6%8F%92%E4%BB%B6incr/</id>
     <published>2020-06-14T09:49:32.000Z</published>
     <updated>2020-06-14T12:08:51.723Z</updated>
     
@@ -211,17 +211,17 @@
     </summary>
     
     
-      <category term="chaos" scheme="http://yoursite.com/categories/chaos/"/>
+      <category term="chaos" scheme="https://blime4.github.io/categories/chaos/"/>
     
     
-      <category term="zsh" scheme="http://yoursite.com/tags/zsh/"/>
+      <category term="zsh" scheme="https://blime4.github.io/tags/zsh/"/>
     
   </entry>
   
   <entry>
     <title>manjaro 安装mysql</title>
-    <link href="http://yoursite.com/2020/06/14/manjaro%20%E5%AE%89%E8%A3%85mysql/"/>
-    <id>http://yoursite.com/2020/06/14/manjaro%20%E5%AE%89%E8%A3%85mysql/</id>
+    <link href="https://blime4.github.io/2020/06/14/manjaro%20%E5%AE%89%E8%A3%85mysql/"/>
+    <id>https://blime4.github.io/2020/06/14/manjaro%20%E5%AE%89%E8%A3%85mysql/</id>
     <published>2020-06-14T09:46:34.000Z</published>
     <updated>2020-06-15T16:05:26.726Z</updated>
     
@@ -237,19 +237,19 @@
     </summary>
     
     
-      <category term="sql" scheme="http://yoursite.com/categories/sql/"/>
+      <category term="sql" scheme="https://blime4.github.io/categories/sql/"/>
     
     
-      <category term="manjaro" scheme="http://yoursite.com/tags/manjaro/"/>
+      <category term="manjaro" scheme="https://blime4.github.io/tags/manjaro/"/>
     
-      <category term="mysql" scheme="http://yoursite.com/tags/mysql/"/>
+      <category term="mysql" scheme="https://blime4.github.io/tags/mysql/"/>
     
   </entry>
   
   <entry>
     <title>manjaro 在命令行打开文件夹</title>
-    <link href="http://yoursite.com/2020/06/14/manjaro%20%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9/"/>
-    <id>http://yoursite.com/2020/06/14/manjaro%20%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9/</id>
+    <link href="https://blime4.github.io/2020/06/14/manjaro%20%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9/"/>
+    <id>https://blime4.github.io/2020/06/14/manjaro%20%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9/</id>
     <published>2020-06-14T09:44:52.000Z</published>
     <updated>2020-06-14T15:06:46.194Z</updated>
     
@@ -265,19 +265,19 @@
     </summary>
     
     
-      <category term="chaos" scheme="http://yoursite.com/categories/chaos/"/>
+      <category term="chaos" scheme="https://blime4.github.io/categories/chaos/"/>
     
     
-      <category term="manjaro" scheme="http://yoursite.com/tags/manjaro/"/>
+      <category term="manjaro" scheme="https://blime4.github.io/tags/manjaro/"/>
     
-      <category term="cmd" scheme="http://yoursite.com/tags/cmd/"/>
+      <category term="cmd" scheme="https://blime4.github.io/tags/cmd/"/>
     
   </entry>
   
   <entry>
     <title>manjaro pacman基础命令</title>
-    <link href="http://yoursite.com/2020/06/14/manjaro%20pacman%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/"/>
-    <id>http://yoursite.com/2020/06/14/manjaro%20pacman%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/</id>
+    <link href="https://blime4.github.io/2020/06/14/manjaro%20pacman%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/"/>
+    <id>https://blime4.github.io/2020/06/14/manjaro%20pacman%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/</id>
     <published>2020-06-14T09:42:07.000Z</published>
     <updated>2020-06-14T15:10:43.355Z</updated>
     
@@ -293,21 +293,21 @@
     </summary>
     
     
-      <category term="chaos" scheme="http://yoursite.com/categories/chaos/"/>
+      <category term="chaos" scheme="https://blime4.github.io/categories/chaos/"/>
     
     
-      <category term="manjaro" scheme="http://yoursite.com/tags/manjaro/"/>
+      <category term="manjaro" scheme="https://blime4.github.io/tags/manjaro/"/>
     
-      <category term="pacman" scheme="http://yoursite.com/tags/pacman/"/>
+      <category term="pacman" scheme="https://blime4.github.io/tags/pacman/"/>
     
-      <category term="cmd" scheme="http://yoursite.com/tags/cmd/"/>
+      <category term="cmd" scheme="https://blime4.github.io/tags/cmd/"/>
     
   </entry>
   
   <entry>
     <title>manjaro go的安装</title>
-    <link href="http://yoursite.com/2020/06/14/manjaro-go%E7%9A%84%E5%AE%89%E8%A3%85/"/>
-    <id>http://yoursite.com/2020/06/14/manjaro-go%E7%9A%84%E5%AE%89%E8%A3%85/</id>
+    <link href="https://blime4.github.io/2020/06/14/manjaro-go%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    <id>https://blime4.github.io/2020/06/14/manjaro-go%E7%9A%84%E5%AE%89%E8%A3%85/</id>
     <published>2020-06-14T09:33:07.000Z</published>
     <updated>2020-06-14T12:10:17.877Z</updated>
     
@@ -323,21 +323,21 @@
     </summary>
     
     
-      <category term="go" scheme="http://yoursite.com/categories/go/"/>
+      <category term="go" scheme="https://blime4.github.io/categories/go/"/>
     
     
-      <category term="go" scheme="http://yoursite.com/tags/go/"/>
+      <category term="go" scheme="https://blime4.github.io/tags/go/"/>
     
-      <category term="manjaro" scheme="http://yoursite.com/tags/manjaro/"/>
+      <category term="manjaro" scheme="https://blime4.github.io/tags/manjaro/"/>
     
-      <category term="tip" scheme="http://yoursite.com/tags/tip/"/>
+      <category term="tip" scheme="https://blime4.github.io/tags/tip/"/>
     
   </entry>
   
   <entry>
     <title>go 拓展包离线安装 [简单有用]</title>
-    <link href="http://yoursite.com/2020/06/14/go-%E6%8B%93%E5%B1%95%E5%8C%85%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85-%E7%AE%80%E5%8D%95%E6%9C%89%E7%94%A8/"/>
-    <id>http://yoursite.com/2020/06/14/go-%E6%8B%93%E5%B1%95%E5%8C%85%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85-%E7%AE%80%E5%8D%95%E6%9C%89%E7%94%A8/</id>
+    <link href="https://blime4.github.io/2020/06/14/go-%E6%8B%93%E5%B1%95%E5%8C%85%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85-%E7%AE%80%E5%8D%95%E6%9C%89%E7%94%A8/"/>
+    <id>https://blime4.github.io/2020/06/14/go-%E6%8B%93%E5%B1%95%E5%8C%85%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85-%E7%AE%80%E5%8D%95%E6%9C%89%E7%94%A8/</id>
     <published>2020-06-14T09:30:53.000Z</published>
     <updated>2020-06-14T15:03:02.604Z</updated>
     
@@ -353,17 +353,17 @@
     </summary>
     
     
-      <category term="go" scheme="http://yoursite.com/categories/go/"/>
+      <category term="go" scheme="https://blime4.github.io/categories/go/"/>
     
     
-      <category term="go" scheme="http://yoursite.com/tags/go/"/>
+      <category term="go" scheme="https://blime4.github.io/tags/go/"/>
     
   </entry>
   
   <entry>
     <title>go 自动补全</title>
-    <link href="http://yoursite.com/2020/06/14/go-%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8/"/>
-    <id>http://yoursite.com/2020/06/14/go-%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8/</id>
+    <link href="https://blime4.github.io/2020/06/14/go-%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8/"/>
+    <id>https://blime4.github.io/2020/06/14/go-%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8/</id>
     <published>2020-06-14T09:29:47.000Z</published>
     <updated>2020-06-14T15:05:11.215Z</updated>
     
@@ -379,17 +379,17 @@
     </summary>
     
     
-      <category term="go" scheme="http://yoursite.com/categories/go/"/>
+      <category term="go" scheme="https://blime4.github.io/categories/go/"/>
     
     
-      <category term="go" scheme="http://yoursite.com/tags/go/"/>
+      <category term="go" scheme="https://blime4.github.io/tags/go/"/>
     
   </entry>
   
   <entry>
     <title>error: ‘wait’ was not declared in this scope</title>
-    <link href="http://yoursite.com/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/"/>
-    <id>http://yoursite.com/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/</id>
+    <link href="https://blime4.github.io/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/"/>
+    <id>https://blime4.github.io/2020/06/14/error-%E2%80%98wait%E2%80%99-was-not-declared-in-this-scope/</id>
     <published>2020-06-14T09:24:48.000Z</published>
     <updated>2020-06-14T15:00:39.089Z</updated>
     
@@ -405,10 +405,10 @@
     </summary>
     
     
-      <category term="bug" scheme="http://yoursite.com/categories/bug/"/>
+      <category term="bug" scheme="https://blime4.github.io/categories/bug/"/>
     
     
-      <category term="error" scheme="http://yoursite.com/tags/error/"/>
+      <category term="error" scheme="https://blime4.github.io/tags/error/"/>
     
   </entry>
   
