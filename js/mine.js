@@ -1,5 +1,3 @@
-// 轮播图
-
 (function () {
     function Slider(option) {
       this.wrap = option.wrap;
