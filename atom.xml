@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blime4.github.io/"/>
-  <updated>2020-07-26T05:29:53.298Z</updated>
+  <updated>2020-07-26T05:32:44.675Z</updated>
   <id>https://blime4.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blime4.github.io/posts/c5e8d58e/"/>
     <id>https://blime4.github.io/posts/c5e8d58e/</id>
     <published>2020-07-26T05:26:06.000Z</published>
-    <updated>2020-07-26T05:29:53.298Z</updated>
+    <updated>2020-07-26T05:32:44.675Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://blog.csdn.net/qq_32144341/article/details/51318390/" target="_blank" rel="noopener">Ubuntu?MySQL5.7??utf8??????</a></p><ul><li>vim /etc/mysql/mysql.conf.d<blockquote><p>?<code>lc-messages-dir = /usr/share/mysql</code> ????? <code>character-set-server=utf8</code> ??</p><br></blockquote></li><li>vim /etc/mysql/conf.d/mysql.cnf<blockquote><p>??<code>default-character-set=utf8</code></p><br></blockquote></li><li>/etc/init.d/mysql restart</li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://blog.csdn.net/qq_32144341/article/details/51318390/" target="_blank" rel="noopener">Ubuntu中MySQL5.7设置utf8编码格式步骤</a></p><ul><li>vim /etc/mysql/mysql.conf.d<blockquote><p>在<code>lc-messages-dir = /usr/share/mysql</code> 语句后添加 <code>character-set-server=utf8</code></p></blockquote></li><li>vim /etc/mysql/conf.d/mysql.cnf<blockquote><p>添加<code>default-character-set=utf8</code></p></blockquote></li><li>/etc/init.d/mysql restart</li></ul>]]></content>
     
     <summary type="html">
     
